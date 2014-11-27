@@ -5,5 +5,5 @@ Php’de sıkça tarih verileriyle uğraştığım(ız) için bi’kaç tane tar
 
 Adını yedTarih koyduğum sınıfın iki temel özelliği var;
 
-Tarih Döndürmek <br/>
+Tarih Döndürmek
 Tarih Formatlamak
